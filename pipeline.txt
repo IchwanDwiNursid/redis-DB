@@ -1,0 +1,5 @@
+set iwan "Ichwan Dwi Nursid"
+set ibnu "Ibnu Awaludin"
+set nafis "Nafisah Azzahra"
+set fikri "Fikri Fadhilah"
+set joko "Joko Widodo"
